@@ -34,4 +34,5 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+This README.md provides a clear overview of your Hospital Web application, including its features, tech stack, setup instructions, and project structure. Feel free to customize it further based on your specific needs!
